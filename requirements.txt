@@ -1,0 +1,8 @@
+jupyter
+numpy
+matplotlib
+scipy
+scikit-learn
+torch
+torchvision
+gymnasium[classic-control]
